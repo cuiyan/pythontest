@@ -1,0 +1,11 @@
+15-08-30 11:15:06.504 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
+15-08-30 11:16:24.542 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
+15-08-30 11:17:25.840 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
+15-08-30 11:17:42.333 INFO  com.seniorkeeper.web.controller.LoginController(LoginController.java:173) ## login successful,userName=doca
+15-08-30 11:35:59.458 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
+15-08-30 11:39:05.202 WARN  com.seniorkeeper.web.controller.LoginController(LoginController.java:159) ## login failed,userName=doca, password=7FA8282AD93047A4D6FE6111C93B308A
+15-08-30 11:39:10.793 INFO  com.seniorkeeper.web.controller.LoginController(LoginController.java:173) ## login successful,userName=doca
+15-08-30 11:52:20.859 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
+15-08-30 11:55:03.208 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
+15-08-30 11:55:50.187 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
+15-08-30 11:56:10.400 INFO  com.seniorkeeper.framwork.spring.BeanFactory(BeanFactory.java:37) ## init bean factory via setter.
